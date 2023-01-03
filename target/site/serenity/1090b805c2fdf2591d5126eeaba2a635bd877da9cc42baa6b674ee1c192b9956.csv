@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Bookings CRUD test","This will Auth user","SUCCESS","2023-01-03T16:24:48.467Z[Europe/London]","0.0","4.86"
+"Bookings CRUD test","This test will create a new Booking","SUCCESS","2023-01-03T16:24:53.357Z[Europe/London]","0.0","0.8"
+"Bookings CRUD test","This test will Update the booking","SUCCESS","2023-01-03T16:24:54.153Z[Europe/London]","0.0","0.59"
+"Bookings CRUD test","This test will Deleted the booking","SUCCESS","2023-01-03T16:24:54.745Z[Europe/London]","0.0","1.08"
